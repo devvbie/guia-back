@@ -1,5 +1,5 @@
 # guia-back
-Meu guia para a jornada do back-end em desenvolvimento web. Aqui colocarei os cursos selecionados e tecnologias que almejo conhecer, com os links para os repositórios dedicados para cada curso.
+Meu guia para a jornada do back-end em desenvolvimento web. Aqui colocarei os cursos selecionados e tecnologias que almejo conhecer, com os links para os repositórios dedicados para cada seleção, se existentes.
 
 - C 
 - [ ] Livro: [Linguagem C, Luis Damas](https://www.amazon.com.br/Linguagem-C-Lu%C3%ADs-Damas/dp/8521615191/ref=sr_1_2?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2VHQP8EK8NGVZ&keywords=linguagem+c&qid=1660731113&sprefix=linguagem+c%2Caps%2C223&sr=8-2&ufe=app_do%3Aamzn1.fos.6121c6c4-c969-43ae-92f7-cc248fc6181d)
