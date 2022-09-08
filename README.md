@@ -16,4 +16,6 @@ Meu guia para a jornada do back-end em desenvolvimento web. Aqui colocarei os cu
 - [ ] Exercícios: [checkio](https://checkio.org/)
 
 - Java
-- [ ] Curso: [Java COMPLETO Programação Orientada a Objetos +Projetos, Nélio Alves](https://www.udemy.com/course/java-curso-completo/)
+- [ ] Curso: [Java COMPLETO Programação Orientada a Objetos +Projetos, Nélio Alves](https://www.udemy.com/course/java-curso-completo/)<br>
+
+Achei um roadmap muito completinho que gostei bastante: https://trilha.info/roadmap/backend
